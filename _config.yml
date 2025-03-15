@@ -16,10 +16,10 @@
 title: Shenhui Ruan
 email: shenhui.ruan@kit.edu
 description: >-
-  I am now a PhD student at Karlsruhe Institute of Technology
-  working on the development and implementation of the Reduced Order Model (ROM)
-  for industrial applications. The framework is based on POD-Galerkin and Data-driven
-  techniques.
+            I am now a PhD student at Karlsruhe Institute of Technology
+            working on the development and implementation of the Reduced Order Model (ROM)
+            for industrial applications. The framework is based on POD-Galerkin and Data-driven
+            techniques.
 # twitter_username: username
 github_username: Ruansh233
 minimal_mistakes_skin: default
