@@ -69,7 +69,7 @@ author:
            POD-Galerkin and Data-driven techniques."
   links:
     - label: "ResearchGate"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-researchgate"
       url: "https://www.researchgate.net/profile/Shenhui-Ruan"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -87,7 +87,7 @@ author:
 footer:
   links:
     - label: "ResearchGate"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-researchgate"
       url: "https://www.researchgate.net/profile/Shenhui-Ruan"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
