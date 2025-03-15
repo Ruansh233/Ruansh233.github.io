@@ -61,7 +61,8 @@ plugins:
 author:
   name   : "Ruan, Shenhui"
   avatar : "/assets/images/public_photo.jpg"
-  bio    : "Mechanical Engineering | Computational Fluid Dynamics 
+  bio    : >-
+            "Mechanical Engineering | Computational Fluid Dynamics |
             Reduced Order Model | POD-Galerkin | Data-driven" 
   links:
     - label: "ResearchGate"

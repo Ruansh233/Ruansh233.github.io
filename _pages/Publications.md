@@ -1,6 +1,6 @@
 ---
 title: "Publications"
 permalink: /Publications/
-layout: Publications
+layout: posts
 author_profile: true
 ---
