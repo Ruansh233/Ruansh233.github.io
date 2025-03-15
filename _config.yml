@@ -15,7 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Shenhui Ruan
 email: shenhui.ruan@kit.edu
-description: I am now a PhD student at Karlsruhe Institute of Technology
+description: >-
+  I am now a PhD student at Karlsruhe Institute of Technology
   working on the development and implementation of the Reduced Order Model (ROM)
   for industrial applications. The framework is based on POD-Galerkin and Data-driven
   techniques.
@@ -58,34 +59,42 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Ruan, Shenhui"
+  avatar : "/assets/images/public_photo.jpg"
+  bio    : >-
+           "I am now a PhD student major in Mechanical Engineering at 
+           Karlsruhe Institute of Technology. My problem aims to develop 
+           and implement the Reduced Order Model (ROM) for industrial 
+           applications. The framework is achieved employing 
+           POD-Galerkin and Data-driven techniques."
   links:
-    - label: "Website"
+    - label: "ResearchGate"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://www.researchgate.net/profile/Shenhui-Ruan"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/shenhui-ruan-1b7b50280/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/Ruansh233"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "ResearchGate"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.researchgate.net/profile/Shenhui-Ruan"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/shenhui-ruan-1b7b50280/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/Ruansh233"
 
 defaults:
   # _posts
