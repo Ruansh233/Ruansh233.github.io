@@ -16,10 +16,10 @@
 title: Shenhui Ruan
 email: shenhui.ruan@kit.edu
 description: >-
-            I am now a PhD student at Karlsruhe Institute of Technology
-            working on the development and implementation of the Reduced Order Model (ROM)
-            for industrial applications. The framework is based on POD-Galerkin and Data-driven
-            techniques.
+            PhD candidate in Fluid Mechanics at Karlsruhe Institute of Technology (KIT),
+            working on computational fluid dynamics, reduced-order modeling, and
+            machine-learning-enhanced simulation methods for industrial and
+            reactor-related applications.
 # twitter_username: username
 github_username: Ruansh233
 minimal_mistakes_skin: default
@@ -30,7 +30,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 0
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -61,11 +61,15 @@ plugins:
 author:
   name   : "Ruan, Shenhui"
   avatar : "/assets/images/public_photo.jpg"
-  bio    : "Mechanical Engineering 
+  bio    : |
+            PhD Candidate, KIT
+            Fluid Mechanics
             Computational Fluid Dynamics
-            Reduced Order Model
+            Reduced Order Modeling
             POD-Galerkin (Projection-based)
-            Data-driven (Machine Learning)" 
+            Machine Learning
+            Neural Networks
+            PINNs and Neural Operators
   links:
     - label: "ResearchGate"
       icon: "fab fa-researchgate"
